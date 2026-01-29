@@ -26,3 +26,4 @@ reset.addEventListener('click', () => {
     count = 0;
     display.textContent = count;
 })
+
